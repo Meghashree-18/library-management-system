@@ -1,0 +1,45 @@
+.booklist{
+    background-color: rgb(33, 33, 38);
+   padding-top: 1px;
+    color:rgb(254, 249, 249);
+}
+.layout{
+    background-color: rgb(250, 247, 244);
+   margin-bottom: 40px;
+    height: 250px;
+    display: flex;
+    padding-top: 20px;
+    border: 1px solid rgb(187, 115, 115);
+
+
+}
+.image123{
+  margin: 0px;
+  margin-right: 30px;
+  height: 260px;
+  width: 200px;
+  padding-top: 20px;
+}
+.book_card{
+    width: 320px;
+    height: 300px;
+}
+.book_card h3,h2,h4{
+    text-align: left;
+    color:black;
+    font-weight: 500;
+    font-style: normal;
+    margin:12px 0px;
+    padding-left: 0px;
+}
+.book_card button{
+    background-color:rgb(255, 87, 87);
+    border: 2px solid rgb(13, 13, 12);
+    padding: 6px 15px;
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+    border-radius: 8px;
+  align-items: flex-start;
+ margin-left: 5px;
+  
+}

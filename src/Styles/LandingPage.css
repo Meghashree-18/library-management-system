@@ -1,0 +1,43 @@
+.LandingPage{
+    background-image: url(https://wallpapersmug.com/download/1280x800/f12332/books.jpg);
+    height: 90vh;
+    padding-top: 140px;
+}
+.SelectLoginType{
+    background-color: rgb(220, 220, 220);
+    justify-content: center;
+    width: 700px;
+    height: 450px;
+    margin-left: 440px;
+
+}
+.SelectLoginType h1{
+color: black;
+padding-top: 40px;
+}
+.b1{
+    border: 2px solid orangered;
+
+    padding: 10px 20px;
+    margin-top: 60px;
+    margin-right: 240px;
+}
+.b2{
+    border: 2px solid green;
+    padding: 10px 20px;
+}
+.Admin{
+    text-decoration: none;
+    color: black;
+}
+.User{
+    text-decoration: none;
+    color: black;
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+  
+}
+

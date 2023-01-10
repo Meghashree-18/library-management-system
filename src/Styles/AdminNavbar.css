@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:lavender;
+}
+.logo h1{
+    margin-left: 40px;
+}
+.navbar_links li{
+    display: inline;
+    padding-right: 30px;
+}
+.navbar_links li,a{
+    text-decoration: none;
+}
+.navbar_links{
+    padding-top: 10px;
+    margin-right: 40px;
+}

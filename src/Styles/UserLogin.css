@@ -1,0 +1,65 @@
+.userlogin{
+    background-color: rgb(195, 242, 242);
+    padding-top: 140px;
+    background-size: cover;
+    height: 81vh;
+}
+.form container h1{
+    font-size: 40px;
+}
+.form container{
+    background-color: lavender;
+    width: 400px;
+    height: 380px;
+    margin: auto;
+    padding: 20px 0px;
+    align-items: center;
+    border-radius: 40px;
+}
+.email {
+    font-size: 25px;
+    padding-top: 30px;
+}
+.email input{
+    padding-left: 10px;
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+    border-radius: 6px;
+
+}
+.password{
+    font-size: 25px;
+    padding-top: 30px;
+ 
+}
+.password input{
+    padding-left:10px;
+    border: none;
+    height: 30px;
+    width: 250px;
+    margin-top: 10px; 
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 6px;
+}
+.form_input button{
+    border-radius: 6px;
+    color: green;
+    background-color: lavender;
+    border: 1px solid green;
+    font-size: 22px;
+    padding: 12px 25px;
+   margin-top: 50px;
+   transition: 0.5s;
+}
+.form_input button:hover{
+    text-shadow: 0 0 3px rgb(117, 165, 106);
+    box-shadow: 0 0 15px rgb(33, 113, 56);
+}
