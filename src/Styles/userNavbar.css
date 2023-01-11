@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:lavender;
+}
+.logo h1{
+    margin-left: 40px;
+}
+.user_links li{
+    display: inline;
+    padding-right: 30px;
+}
+.user_links li,a{
+    text-decoration: none;
+}
+.user_links{
+    padding-top: 10px;
+    margin-right: 40px;
+}

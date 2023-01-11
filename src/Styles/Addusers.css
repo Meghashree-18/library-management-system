@@ -1,0 +1,54 @@
+.Addusers{
+    margin:0px;
+   background-color: rgba(127, 255, 212, 0.322);
+   height: 79.2vh;
+   padding-top: 60px;
+}
+
+.forms{
+    margin: auto;
+    align-items: center;
+    padding-top: 20px;
+    background-color:  rgba(0, 0, 0, 0.13);
+    width: 500px;
+    height: 460px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.Addusers h1{
+    margin: 0px;
+    padding-top: 20px;
+    color: rgb(50, 50, 117);
+   font-style:normal;
+   font-weight: 800;
+}
+
+.email, .age,.phoneNumber, .name {
+    font-size: 25px;
+    padding-top: 30px;
+    
+}
+.style{
+    padding-left: 10px;
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 30px;
+    width: 250px;
+    border-radius: 6px;
+    
+}
+.forms button{
+    margin-top: 40px ;
+    padding: 10px 20px;
+    font-size:20px;
+    color: rgb(60, 25, 148);
+    background-color: lavender;
+    border: 1px solid rgb(47, 21, 196);
+    border-radius: 9px;
+}
+.forms button:hover{
+    text-shadow: 0 0 3px rgb(117, 106, 165);
+    box-shadow: 0 0 15px rgb(0, 64, 113);
+}

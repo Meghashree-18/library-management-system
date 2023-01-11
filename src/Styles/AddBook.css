@@ -1,0 +1,58 @@
+.addbook{
+    background-color: rgba(33, 196, 196, 0.17);   
+    height: 135vh;
+    background-size: cover;
+    padding-top: 50px;
+}
+   
+   .addbook h1{
+       font-weight: 800;
+       color: rgb(50, 50, 117);
+       margin: 0px;
+       padding-top: 30px;
+   }
+   .form1{
+       border-radius: 30px;
+       margin: auto;
+       background-color: rgba(0, 0, 0, 0.112);
+       width: 500px;
+       height: 950px;
+       box-shadow:4px 3px black;
+   }
+   .categories,.authors,.pageCount,.shortDescription,.longDescription,.thumbnailUrl,.title {
+       font-size: 25px;
+       padding-top: 30px;
+   }
+   .style{
+       padding-left: 10px;
+       border-bottom: 2px solid black;
+       border-top: none;
+       border-left: none;
+       border-right: none;
+       height: 30px;
+       width: 450px;
+       border-radius: 6px;
+       font-size: 15px;
+   }
+   #uni,#uno{
+       padding-left: 10px;
+       border-bottom: 2px solid black;
+       border-top: none;
+       border-left: none;
+       border-right: none; 
+       border-radius: 6px;
+       font-size: 16px;
+   }
+   .form1 button{
+       margin-top: 40px ;
+       padding: 10px 20px;
+       font-size:20px;
+       color: rgb(60, 25, 148);
+       background-color: lavender;
+       border: 1px solid rgb(47, 21, 196);
+       border-radius: 9px;
+   }
+   .form1 button:hover{
+       text-shadow: 0 0 3px rgb(117, 106, 165);
+       box-shadow: 0 0 15px rgb(0, 64, 113);
+   }

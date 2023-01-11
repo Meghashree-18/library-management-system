@@ -3,7 +3,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 const UserLogin = () => {
     let Navigate=useNavigate()
     let login=()=>{
-    Navigate('/user')
+    Navigate('/user/')
     }
     return ( 
         <div className="userlogin">
